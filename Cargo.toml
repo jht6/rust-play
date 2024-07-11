@@ -1,5 +1,5 @@
 [workspace]
 
 members = [
-  "cmd",
+  "crates/cmd",
 ]
